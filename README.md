@@ -29,9 +29,11 @@
 <h1>
   Technologies 🚀 
 </h1>
-Kotlin<br/>
-Jetpack Compose<br/>
-Android Studio<br/>
+  
+- Kotlin
+- Jetpack Compose
+- Android Studio
+
 </div>
 
 <br/>
